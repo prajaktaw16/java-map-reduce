@@ -13,3 +13,5 @@ First, for each twitter user, you count the number of users she follows. Then, y
 which says that there are 30 users who follow 10 users.
 
 The code demonstrates how to use and chain 2 map reduce jobs with a simple example.
+
+The file output/part-r-00000 must contain the same results as in file small-solution.txt. (The file temp/part-r-00000 contains the temporary results from the first map-reduce job).
